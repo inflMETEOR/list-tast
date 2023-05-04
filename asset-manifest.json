@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inflMETEOR/list-tast/static/css/main.f51c2a7e.css",
+    "main.js": "/inflMETEOR/list-tast/static/js/main.8d07dc87.js",
+    "static/js/787.9d2c693c.chunk.js": "/inflMETEOR/list-tast/static/js/787.9d2c693c.chunk.js",
+    "index.html": "/inflMETEOR/list-tast/index.html",
+    "main.f51c2a7e.css.map": "/inflMETEOR/list-tast/static/css/main.f51c2a7e.css.map",
+    "main.8d07dc87.js.map": "/inflMETEOR/list-tast/static/js/main.8d07dc87.js.map",
+    "787.9d2c693c.chunk.js.map": "/inflMETEOR/list-tast/static/js/787.9d2c693c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f51c2a7e.css",
+    "static/js/main.8d07dc87.js"
+  ]
+}
